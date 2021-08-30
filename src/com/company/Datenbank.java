@@ -10,7 +10,7 @@ import java.util.Comparator;
 public class Datenbank {
     private Auto[] dbArray;
     private Auto[] dummy; // Ein Auto-Array "Dummy"
-
+///blubb
     // Standard-Konsturktor mit 50 leeren Feldern vom Typ Auto
     public Datenbank() {
         dbArray = new Auto[50];
