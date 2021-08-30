@@ -6,7 +6,7 @@ import java.util.Comparator;
 /**
  * @author hoehn
  */
-//blubb
+//blubb or blubb
 public class Datenbank {
     private Auto[] dbArray;
     private Auto[] dummy; // Ein Auto-Array "Dummy"
